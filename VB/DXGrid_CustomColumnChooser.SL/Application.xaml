@@ -1,0 +1,11 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:System="clr-namespace:System;assembly=mscorlib" 
+             x:Class="DXGrid_CustomColumnChooser.SL.App"
+             >
+    <Application.Resources>
+
+        <System:String x:Key="DevExpress.Xpf.License">95-F8-F5-7A-3B-94-6F-C0-2B-DC-0F-68-55-65-30-0A-DD-81-D4-D3</System:String>
+
+    </Application.Resources>
+</Application>
