@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGrid_CustomColumnChooser.SL", "DXGrid_CustomColumnChooser.SL\DXGrid_CustomColumnChooser.SL.csproj", "{0D4F74F7-34FD-4D55-8972-AC9DD5F52820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4F74F7-34FD-4D55-8972-AC9DD5F52820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4F74F7-34FD-4D55-8972-AC9DD5F52820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4F74F7-34FD-4D55-8972-AC9DD5F52820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4F74F7-34FD-4D55-8972-AC9DD5F52820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
