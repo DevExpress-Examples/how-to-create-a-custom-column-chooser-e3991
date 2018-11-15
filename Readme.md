@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXGrid_CustomColumnChooser.SL/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXGrid_CustomColumnChooser.SL/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXGrid_CustomColumnChooser.SL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXGrid_CustomColumnChooser.SL/MainPage.xaml))
+<!-- default file list end -->
 # How to Create a Custom Column Chooser
 
 
